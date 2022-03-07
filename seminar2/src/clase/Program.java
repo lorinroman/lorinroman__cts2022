@@ -3,9 +3,6 @@ package clase;
 import java.io.FileNotFoundException;
 import java.util.List;
 
-import clase.readers.AngajatReader;
-import clase.readers.IReader;
-
 public class Program {
 
 	public static void main(String[] args) {

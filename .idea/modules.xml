@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTS.iml" filepath="$PROJECT_DIR$/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain_of_responsibility/chain_of_responsibility.iml" filepath="$PROJECT_DIR$/chain_of_responsibility/chain_of_responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_builder/seminar5_builder.iml" filepath="$PROJECT_DIR$/seminar5_builder/seminar5_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_builder/seminar5_builderV2.iml" filepath="$PROJECT_DIR$/seminar5_builder/seminar5_builderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_builder_V2/seminar5_builder_V2.iml" filepath="$PROJECT_DIR$/seminar5_builder_V2/seminar5_builder_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_prototype/seminar5_prototype.iml" filepath="$PROJECT_DIR$/seminar5_prototype/seminar5_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_flyweight/seminar6_flyweight.iml" filepath="$PROJECT_DIR$/seminar6_flyweight/seminar6_flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_observer/seminar6_observer.iml" filepath="$PROJECT_DIR$/seminar6_observer/seminar6_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_strategy/seminar6_strategy.iml" filepath="$PROJECT_DIR$/seminar6_strategy/seminar6_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template/template.iml" filepath="$PROJECT_DIR$/template/template.iml" />
+    </modules>
+  </component>
+</project>
